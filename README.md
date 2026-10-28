@@ -1,6 +1,6 @@
 # Hadrien Le Téno
 
-BSc Mathematics (Honours Programme) @ Université de Reims · MSc Finance @ NEOMA Business School
+BSc Mathematics (Honours Programme) @ Université de Reims · MiM Finance @ NEOMA Business School
 
 Interested in stochastic calculus, numerical methods and quantitative finance.
 
